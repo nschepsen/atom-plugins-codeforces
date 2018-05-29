@@ -7,6 +7,8 @@
 
 This is a CodeForces plug-in for Atom helps you download test cases for an arbitrary selected Task.
 
+![Codeforces!HELPER](http://schepsen.eu/software/codeforces/helper.gif)
+
 ## ATTENTION ##
 
 Your folder should be named as the task itself, e.g. 458
