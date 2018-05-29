@@ -1,0 +1,13 @@
+{
+  "context-menu":
+  {
+    ".entries.list-tree .file.entry.list-item":
+    [
+      {
+        "type": "separator"
+      },
+
+      { "label": "Download all TC for this Task", "command": "codeforces-helper:download" }, { "type": "separator" }
+    ]
+  }
+}
