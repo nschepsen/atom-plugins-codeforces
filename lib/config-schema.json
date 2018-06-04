@@ -1,0 +1,18 @@
+{
+    "username":
+    {
+        "title": "Username",
+        "description": "The handle used at Codeforces",
+        "type": "string",
+        "order": 1,
+        "default": "nschepsen"
+    },
+    "password":
+    {
+        "title": "Password",
+        "description": "Needs for submitting your solution",
+        "type": "string",
+        "order": 2,
+        "default": "*********"
+    }
+}
