@@ -1,0 +1,32 @@
+{
+    "name": "codeforces-helper",
+    "main": "./lib/codeforces-helper",
+    "version": "0.1.0",
+    "description": "This is a CodeForces plug-in for Atom helps you download test cases for an arbitrary selected Task",
+    "keywords": [
+        "Codeforces",
+        "Helper",
+        "Downloader"
+    ],
+    "activationCommands": {
+        "atom-workspace": "codeforces-helper:download"
+    },
+    "readmeFilename": "README.md",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/nschepsen/codeforces-helper.git"
+    },
+    "author": {
+        "name": "Nikolaj Schepsen",
+        "email": "git@schepsen.eu",
+        "url": "https://schepsen.eu"
+    },
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {},
+    "contributors": [
+        "Nikolaj Schepsen <nschepsen>"
+    ]
+}

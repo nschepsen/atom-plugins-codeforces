@@ -5,11 +5,13 @@
 
 ## USAGE ##
 
-This is a CodeForces plug-in for Atom helps you download test cases for an arbitrary selected Task.
+This Atom plugin downloads for you Codeforce (TCs) TestCases
+
+![Codeforces!HELPER](docs/codeforces-v0.1.0.gif)
 
 ## ATTENTION ##
 
-Your folder should be named as the task itself, e.g. 458
+Your active directory should be same named like the task itself, e.g. 458
 
 ## CHANGELOG ##
 
